@@ -1,0 +1,1225 @@
+Abiotrophia defectiva (Streptococcus defectivus)
+Acholeplasma hippikon
+Acholeplasma laidlawii
+Acholeplasma oculi
+Achromobacter denitrificans (Achromobacter xylosoxidans
+subsp. denitrificans, Alcaligenes denitrificans, Alcaligenes
+denitrificans subsp. denitrificans, Alcaligenes xylosoxidans
+subsp. denitrificans)
+Achromobacter insolitus
+Achromobacter ruhlandii (Alcaligenes ruhlandii)
+Achromobacter spanius
+Achromobacter xylosoxidans (Achromobacter xylosoxidans
+subsp. xylosoxidans, Alcaligenes denitrificans subsp.
+xylosoxidans, Alcaligenes xylosoxidans subsp. xylosoxidans,
+Alcaligenes xylosoxidans)
+Acidaminococcus fermentans
+Acidaminococcus intestini
+Acidipropionibacterium jensenii (Propionibacterium jensenii)
+Acidovorax avenae (Acidovorax avenae subsp. avenae,
+Pseudomonas avenae, Paracidovorax avenae)
+Acinetobacter baumannii
+Acinetobacter bereziniae
+Acinetobacter calcoaceticus
+Acinetobacter guillouiae
+Acinetobacter haemolyticus
+Acinetobacter johnsonii
+Acinetobacter junii
+Acinetobacter lactucae
+Acinetobacter lwoffii
+Acinetobacter nosocomialis
+Acinetobacter pittii
+Acinetobacter schindleri
+Acinetobacter seifertii
+Acinetobacter soli
+Acinetobacter ursingii
+Actinobacillus delphinicola (Actinobacillus_C delphinicola)
+Actinobacillus equuli subsp. equuli
+Actinobacillus lignieresii
+Actinobacillus suis
+Actinobacillus ureae (Pasteurella ureae)
+Actinomadura latina (Spirillospora latina)
+Actinomadura madurae (Spirillospora madurae)
+Actinomyces cardiffensis (Pauljensenia cardiffensis)
+Actinomyces europaeus
+Actinomyces gerencseriae (Actinomyces israelii Serovar 2)
+Actinomyces graevenitzii
+Actinomyces hongkongensis
+Actinomyces israelii
+Actinomyces massiliensis
+Actinomyces meyeri (Actinobacterium meyeri)
+Actinomyces neuii subsp. neuii
+Actinomyces odontolyticus
+Actinomyces oris
+Actinomyces radicidentis
+Actinomyces radingae
+Actinomyces timonensis
+Actinomyces turicensis
+Actinomyces urogenitalis
+Actinomyces viscosus
+Actinotignum schaalii (Actinobaculum schaalii)
+Advenella mimigardefordensis (Tetrathiobacter
+mimigardefordensis)
+Aerococcus christensenii
+Aerococcus sanguinicola
+Aerococcus urinae
+Aerococcus urinaehominis
+Aerococcus viridans
+Aeromonas allosaccharophila
+Aeromonas bestiarum
+Aeromonas caviae
+Aeromonas dhakensis (Aeromonas hydrophila subsp.
+dhakensis)
+Aeromonas encheleia
+Aeromonas enteropelogenes (Aeromonas trota)
+Aeromonas hydrophila subsp. hydrophila
+Aeromonas ichthiosmia
+Aeromonas media
+Aeromonas punctata subsp. caviae
+Aeromonas salmonicida subsp. masoucida
+Aeromonas salmonicida subsp. salmonicida
+Aeromonas salmonicida subsp. smithia
+Aeromonas schubertii
+Aeromonas sobria
+Aeromonas taiwanensis
+Aeromonas veronii
+Aggregatibacter actinomycetemcomitans (Actinobacillus
+actinomycetemcomitans, Haemophilus
+actinomycetemcomitans)
+Aggregatibacter aphrophilus (Haemophilus aphrophilus)
+Aggregatibacter segnis (Haemophilus segnis)
+Agrobacterium pusense (Rhizobium pusense)
+Alcaligenes faecalis subsp. faecalis
+Alistipes finegoldii
+Alistipes shahii
+Alloiococcus otitis
+Alloscardovia omnicolens
+Amycolatopsis benzoatilytica
+Amycolatopsis orientalis (Amycolatopsis orientalis subsp.
+orientalis, Nocardia orientalis)
+Anaerococcus hydrogenalis (Peptostreptococcus
+hydrogenalis)
+Anaerococcus lactolyticus (Peptostreptococcus lactolyticus)
+Anaerococcus prevotii (Peptococcus prevotii,
+Peptostreptococcus prevotii)
+Anaerococcus tetradius (Peptostreptococcus tetradius)
+Anaeroglobus geminatus
+Anaplasma centrale
+Anaplasma marginale
+Anaplasma ovis
+Anaplasma phagocytophilum (Ehrlichia phagocytophila)
+Arcanobacterium haemolyticum (Corynebacterium
+haemolyticum)
+Arcanobacterium phocae
+Arcobacter butzleri (Campylobacter butzleri)
+Arcobacter cryaerophilus (Campylobacter cryaerophilus)
+Arcobacter skirrowii
+Asaia bogorensis
+Atopobium parvulum (Peptostreptococcus parvulus,
+Streptococcus parvulus)
+Atopobium rimae (Lactobacillus rimae)
+Atopobium vaginae
+Austwickia chelonae (Dermatophilus chelonae)
+Avibacterium paragallinarum (Haemophilus paragallinarum)
+Bacillus anthracis
+Bacillus cereus
+Bacillus cereus biovar anthracis
+Bacillus circulans
+Bacillus coagulans
+Bacillus cytotoxicus
+Bacillus infantis
+Bacillus licheniformis
+Bacillus megaterium
+Bacillus mycoides3
+Bacillus pumilus
+Bacillus subtilis subsp. spizizenii
+Bacillus subtilis subsp. subtilis
+Bacillus thuringiensis
+Bacteroides caccae
+Bacteroides dorei
+Bacteroides eggerthii
+Bacteroides fragilis
+Bacteroides helcogenes
+Bacteroides ovatus
+Bacteroides stercoris
+Bacteroides thetaiotaomicron
+Bacteroides uniformis
+Bacteroides vulgatus
+Bartonella alsatica
+Bartonella ancashensis
+Bartonella bacilliformis
+Bartonella birtlesii
+Bartonella bovis
+Bartonella clarridgeiae
+Bartonella doshiae
+Bartonella elizabethae (Rochalimaea elizabethae)
+Bartonella grahamii
+Bartonella henselae (Rochalimaea henselae)
+Bartonella koehlerae
+Bartonella quintana (Rochalimaea quintana)
+Bartonella rattaustraliani
+Bartonella rochalimae
+Bartonella schoenbuchensis
+Bartonella taylorii
+Bartonella tribocorum
+Bartonella vinsonii subsp. berkhoffii
+Basilea psittacipulmonis
+Beneckea alginolytica (Vibrio alginolyticus)
+Beneckea parahaemolytica (Vibrio parahaemolyticus)
+Bergeyella zoohelcum (Weeksella zoohelcum)
+Bibersteinia trehalosi (Pasteurella trehalosi)
+Bifidobacterium adolescentis
+Bifidobacterium breve
+Bifidobacterium dentium
+Bifidobacterium scardovii
+Bordetella avium
+Bordetella bronchialis
+Bordetella bronchiseptica
+Bordetella flabilis
+Bordetella hinzii
+Bordetella holmesii
+Bordetella parapertussis4
+Bordetella pertussis
+Bordetella petrii
+Bordetella pseudohinzii
+Bordetella trematum
+Borrelia afzelii
+Borrelia anserina
+Borrelia bissettiae
+Borrelia coriaceae
+Borrelia crocidurae
+Borrelia duttonii
+Borrelia hermsii
+Borrelia hispanica
+Borrelia mayonii
+Borrelia miyamotoi
+Borrelia parkeri
+Borrelia persica
+Borrelia recurrentis
+Borrelia turicatae
+Borrelia valaisiana
+Borreliella bavariensis (Borrelia bavariensis)
+Borreliella burgdorferi (Borrelia burgdorferi)
+Borreliella garinii (Borrelia garinii)
+Borreliella spielmanii (Borrelia spielmanii)
+Brachyspira hampsonii
+Brachyspira hyodysenteriae (Treponema hyodysenteriae,
+Serpula hyodysenteriae, Serpulina hyodysenteriae)
+Brachyspira intermedia (Serpulina intermedia)
+Brachyspira murdochii (Serpulina murdochii)
+Brachyspira pilosicoli (Serpulina pilosicoli)
+Brevibacillus brevis (Bacillus brevis)
+Brevibacillus laterosporus (Bacillus laterosporus)
+Brevibacterium casei
+Brevundimonas diminuta (Pseudomonas diminuta)
+Brevundimonas vesicularis (Pseudomonas vesicularis)
+Brucella abortus (B. melitensis biovar abortus)5
+Brucella canis (B. melitensis biovar canis)5
+Brucella ceti
+Brucella melitensis (Brucella melitensis biovar melitensis)
+Brucella microti
+Brucella ovis (Brucella melitensis biovar ovis)
+Brucella pinnipedialis
+Brucella suis (Brucella melitensis biovar suis)
+Burkholderia ambifaria
+Burkholderia anthina
+Burkholderia cenocepacia
+Burkholderia cepacia (Pseudomonas cepacia)
+Burkholderia contaminans
+Burkholderia diffusa
+Burkholderia dolosa
+Burkholderia gladioli (Pseudomonas gladioli)
+Burkholderia latens
+Burkholderia mallei (Pseudomonas mallei)
+Burkholderia metallica
+Burkholderia multivorans
+Burkholderia oklahomensis
+Burkholderia pseudomallei (Pseudomonas pseudomallei)
+Burkholderia pseudomultivorans
+Burkholderia seminalis
+Burkholderia stabilis
+Burkholderia stagnalis
+Burkholderia thailandensis
+Burkholderia ubonensis
+Burkholderia vietnamiensis
+Campylobacter coli
+Campylobacter concisus
+Campylobacter curvus (Wolinella curva)
+Campylobacter fetus subsp. fetus
+Campylobacter fetus subsp. testudinum
+Campylobacter fetus subsp. venerealis
+Campylobacter gracilis (Bacteroides gracilis)
+Campylobacter helveticus
+Campylobacter hepaticus
+Campylobacter hyointestinalis subsp. hyointestinalis
+Campylobacter insulaenigrae
+Campylobacter jejuni subsp. jejuni
+Campylobacter lanienae
+Campylobacter lari subsp. concheus
+Campylobacter lari subsp. lari (Campylobacter lari)
+Campylobacter mucosalis (Campylobacter sputorum subsp.
+mucosalis)
+Campylobacter peloridis
+Campylobacter pinnipediorum subsp. caledonicus
+Campylobacter pinnipediorum subsp. pinnipediorum
+Campylobacter showae
+Campylobacter sputorum subsp. sputorum
+Campylobacter upsaliensis
+Campylobacter ureolyticus (Bacteroides ureolyticus)
+Campylobacter volucris
+Capnocytophaga canimorsus
+Capnocytophaga cynodegmi
+Capnocytophaga gingivalis
+Capnocytophaga granulosa
+Capnocytophaga haemolytica
+Capnocytophaga leadbetteri
+Capnocytophaga ochracea (Bacteroides ochraceus)
+Capnocytophaga sputigena
+Cardiobacterium hominis
+Cardiobacterium valvarum
+Carnobacterium maltaromaticum (Lactobacillus maltaromicus, Carnobacterium piscicola)
+Catabacter hongkongensis
+Cedecea lapagei
+Cedecea neteri
+Cellulosimicrobium cellulans (Nocardia cellulans,
+Cellulomonas cellulans)
+Chlamydia abortus (Chlamydophila abortus)
+Chlamydia avium
+Chlamydia caviae (Chlamydophila caviae)
+Chlamydia felis (Chlamydophila felis)
+Chlamydia gallinacea
+Chlamydia muridarum
+Chlamydia pecorum (Chlamydophila pecorum)
+Chlamydia pneumoniae (Chlamydophila pneumoniae)
+Chlamydia psittaci (Chlamydophila psittaci)
+Chlamydia suis
+Chlamydia trachomatis
+Chromobacterium haemolyticum
+Chromobacterium violaceum
+Chryseobacterium bernardetii
+Chryseobacterium gleum (Flavobacterium gleum)
+Chryseobacterium indologenes (Flavobacterium indologenes)
+Chryseobacterium nakagawai
+Chryseobacterium taklimakanense (Planobacterium
+taklimakanense)
+Citrobacter amalonaticus (Levinea amalonatica)
+Citrobacter braakii
+Citrobacter farmeri
+Citrobacter freundii
+Citrobacter koseri
+Citrobacter pasteurii
+Citrobacter portucalensis
+Citrobacter rodentium
+Citrobacter werkmanii
+Citrobacter youngae
+Clostridioides difficile (Clostridium difficile)
+Clostridium argentinense
+Clostridium baratii9
+Clostridium bolteae
+Clostridium botulinum10
+Clostridium butyricum
+Clostridium chauvoei
+Clostridium cochlearium
+Clostridium haemolyticum
+Clostridium innocuum
+Clostridium novyi
+Clostridium paraputrificum
+Clostridium perfringens
+Clostridium scatologenes
+Clostridium septicum
+Clostridium sphenoides
+Clostridium sporogenes
+Clostridium tetani
+Collinsella aerofaciens (Eubacterium aerofaciens)
+Comamonas aquatica (Aquaspirillum aquaticum)
+Comamonas kerstersii
+Comamonas terrigena
+Comamonas testosteroni (Pseudomonas testosteroni)
+Corynebacterium accolens
+Corynebacterium afermentans subsp. afermentans
+Corynebacterium ammoniagenes (Brevibacterium
+ammoniagenes)
+Corynebacterium amycolatum
+Corynebacterium argentoratense
+Corynebacterium aurimucosum
+Corynebacterium camporealensis
+Corynebacterium cystitidis
+Corynebacterium diphtheriae
+Corynebacterium falsenii
+Corynebacterium freiburgense
+Corynebacterium freneyi
+Corynebacterium glucuronolyticum
+Corynebacterium imitans
+Corynebacterium jeikeium
+Corynebacterium kroppenstedtii
+Corynebacterium kutscheri
+Corynebacterium lipophiloflavum
+Corynebacterium massiliense
+Corynebacterium matruchotii (Bacterionema matruchotii)
+Corynebacterium minutissimum
+Corynebacterium mustelae
+Corynebacterium mycetoides
+Corynebacterium nigricans
+Corynebacterium propinquum
+Corynebacterium pseudodiphtheriticum
+Corynebacterium pseudotuberculosis
+Corynebacterium renale
+Corynebacterium resistens
+Corynebacterium riegelii
+Corynebacterium seminale
+Corynebacterium simulans
+Corynebacterium singulare
+Corynebacterium stationis (Brevibacterium stationis)
+Corynebacterium striatum
+Corynebacterium timonense
+Corynebacterium tuberculostearicum
+Corynebacterium tuscaniense
+Corynebacterium ulcerans
+Corynebacterium urealyticum
+Corynebacterium ureicelerivorans
+Coxiella burnetii
+Cronobacter dublinensis subsp. dublinensis
+Cronobacter malonaticus
+Cronobacter muytjensii
+Cronobacter sakazakii (Enterobacter sakazakii)
+Cronobacter turicensis
+Cronobacter universalis
+Cupriavidus gilardii (Wautersia gilardii, Ralstonia gilardii)
+Cupriavidus pauculus (Wautersia paucula, Ralstonia paucula)
+Cupriavidus taiwanensis (Wautersia taiwanensis, Ralstonia
+taiwanensis)
+Cutibacterium avidum (Propionibacterium avidum)
+Cutibacterium granulosum (Propionibacterium granulosum)
+Delftia acidovorans (Pseudomonas acidovorans, Comamonas
+acidovorans)
+Delftia tsuruhatensis
+Dermabacter hominis
+Dermatophilus congolensis
+Desulfomicrobium orale
+Devriesea agamarum
+Dialister pneumosintes (Bacteroides pneumosintes)
+Dichelobacter nodosus (Bacteroides nodosus)
+Dietzia timorensis
+Dolosigranulum pigrum
+Dysgonomonas capnocytophagoides
+Dysgonomonas gadei
+Dysgonomonas mossii
+Edwardsiella hoshinae
+Edwardsiella ictaluri
+Edwardsiella piscicida
+Edwardsiella tarda
+Eggerthella lenta (Eubacterium lentum)
+Ehrlichia canis
+Ehrlichia chaffeensis
+Ehrlichia ruminantium (Cowdria ruminantium)
+Eikenella corrodens
+Elizabethkingia anophelis
+Elizabethkingia meningoseptica
+(Flavobacteriummeningosepticum, Chryseobacterium
+meningosepticum)
+Elizabethkingia miricola (Chryseobacterium miricola)
+Empedobacter brevis (Flavobacterium breve)
+Empedobacter falsenii (Wautersiella falsenii)
+Enterobacter aerogenes (Klebsiella aerogenes, Klebsiella
+mobilis)
+Enterobacter asburiae
+Enterobacter bugandensis
+Enterobacter cancerogenus (Erwinia cancerogena)
+Enterobacter cloacae subsp. cloacae (Enterobacter cloacae)
+Enterobacter cloacae subsp. dissolvens (Enterobacter
+dissolvens, Erwinia dissolvens)
+Enterobacter hormaechei subsp. hormaechei (Enterobacter
+hormaechei)
+Enterobacter hormaechei subsp. oharae
+Enterobacter hormaechei subsp. steigerwaltii
+Enterobacter kobei
+Enterobacter ludwigii
+Enterococcus avium
+Enterococcus casseliflavus (Streptococcus casseliflavus)
+Enterococcus cecorum (Streptococcus cecorum)
+Enterococcus dispar
+Enterococcus durans (Streptococcus durans)
+Enterococcus faecalis (Streptococcus faecalis)
+Enterococcus faecium (Streptococcus faecium)
+Enterococcus gallinarum (Streptococcus gallinarum)
+Enterococcus gilvus
+Enterococcus hirae
+Enterococcus mundtii
+Enterococcus pallens
+Enterococcus pseudoavium
+Enterococcus raffinosus
+Enterococcus saccharolyticus
+Eperythrozoon parvum
+Erysipelothrix rhusiopathiae (Erysipelothrix insidiosa)
+Escherichia albertii
+Escherichia coli (andere Stämme)
+Escherichia coli (enterohämorrhagische (EHEC) Stämme z.B.
+O157:H7 oder O103)
+Escherichia fergusonii
+Escherichia hermannii
+Eubacterium limosum
+Eubacterium minutum
+Eubacterium nodatum
+Eubacterium sulci (Fusobacterium sulci)
+Facklamia hominis
+Facklamia sourekii
+Faecalibacterium prausnitzii (Fusobacterium prausnitzii)
+Falcivibrio grandis
+Falcivibrio vaginalis
+Fastidiosipila sanguinis
+Filifactor alocis (Fusobacterium alocis)
+Finegoldia magna (Peptococcus magnus, Peptostreptococcus
+magnus)
+Flavonifractor plautii (Clostridium orbiscindens, Eubacterium
+plautii, Fusobacterium plauti)
+Fluoribacter bozemanae (Legionella bozemanii)
+Fluoribacter dumoffii (Legionella dumoffii)
+Francisella hispaniensis
+Francisella philomiragia (Francisella philomiragia subsp.
+philomiragia, Yersinia philomiragia)
+Francisella tularensis subsp. holarctica
+Francisella tularensis subsp. mediasiatica
+Francisella tularensis subsp. novicida (Francisella novicida)
+Francisella tularensis subsp. tularensis
+Frederiksenia canicola
+Fusobacterium gonidiaformans
+Fusobacterium mortiferum
+Fusobacterium necrophorum subsp. funduliforme
+Fusobacterium nucleatum subsp. animalis
+Fusobacterium nucleatum subsp. nucleatum
+Fusobacterium nucleatum subsp. polymorphum
+Fusobacterium nucleatum subsp. vincentii
+Fusobacterium periodonticum
+Fusobacterium ulcerans
+Fusobacterium varium
+Gardnerella vaginalis (Haemophilus vaginalis)
+Gemella bergeri
+Gemella haemolysans
+Gemella morbillorum (Streptococcus morbillorum)
+Gemella sanguinis
+Gordonia bronchialis (Rhodococcus bronchialis)
+Gordonia iterans
+Gordonia terrae (Rhodococcus terrae)
+Gordonibacter pamelaeae
+Granulibacter bethesdensis
+Granulicatella adiacens (Streptococcus adjacens, Abiotrophia
+adiacens)
+Granulicatella elegans (Abiotrophia elegans)
+Grimontia hollisae (Vibrio hollisae)
+Haematobacter massiliensis (Rhodobacter massiliensis)
+Haematospirillum jordaniae
+Haemobartonella canis
+Haemophilus aegyptius
+Haemophilus ducreyi
+Haemophilus haemolyticus
+Haemophilus influenzae
+Haemophilus parahaemolyticus
+Haemophilus parainfluenzae
+Haemophilus paraphrohaemolyticus
+Haemophilus parasuis
+Haemophilus pittmaniae
+Hafnia alvei
+Hafnia paralvei
+Helicobacter acinonychis
+Helicobacter bilis
+Helicobacter bizzozeronii
+Helicobacter canadensis
+Helicobacter cetorum
+Helicobacter cholecystus
+Helicobacter cinaedi (Campylobacter cinaedi)
+Helicobacter felis
+Helicobacter fennelliae (Campylobacter fennelliae)
+Helicobacter heilmannii
+Helicobacter hepaticus
+Helicobacter himalayensis
+Helicobacter mustelae (Campylobacter pylori subsp. mustelae,
+Campylobacter mustelae)
+Helicobacter pullorum
+Helicobacter pylori (Campylobacter pylori subsp. pylori,
+Campylobacter pylori)
+Helicobacter saguini
+Helicobacter suis
+Helicobacter typhlonius
+Histophilus somni
+Jonesia denitrificans (Listeria denitrificans)
+Jonquetella anthropi
+Kerstersia gyiorum
+Kingella denitrificans
+Kingella kingae
+Kingella oralis
+Klebsiella aerogenes (Klebsiella mobilis, Enterobacter
+aerogenes)
+Klebsiella grimontii
+Klebsiella michiganensis
+Klebsiella oxytoca
+Klebsiella pneumoniae subsp. ozaenae (Klebsiella ozaenae)
+Klebsiella pneumoniae subsp. pneumoniae (Klebsiella
+pneumoniae)
+Klebsiella pneumoniae subsp. rhinoscleromatis (Klebsiella
+rhinoscleromatis)
+Klebsiella quasipneumoniae subsp. quasipneumoniae
+Klebsiella quasipneumoniae subsp. similipneumoniae
+Klebsiella variicola
+Kluyvera ascorbata
+Kluyvera cryocrescens
+Kluyvera intermedia (Enterobacter intermedius)
+Kocuria kristinae (Micrococcus kristinae)
+Kosakonia cowanii (Enterobacter cowanii)
+Koserella trabulsii
+Kurthia zopfii
+Kytococcus sedentarius (Micrococcus sedentarius)
+Laceyella sacchari (Thermoactinomyces sacchari)
+Lachnoanaerobaculum umeaense
+Lactobacillus acidophilus
+Lactobacillus casei
+Lactobacillus fermentum
+Lactobacillus gasseri
+Lactobacillus iners
+Lactobacillus jensenii
+Lactobacillus paracasei subsp. paracasei (Lactobacillus casei
+subsp. alactosus, Lactobacillus casei subsp.
+pseudoplantarum)
+Lactobacillus plantarum subsp. argentoratensis
+Lactobacillus plantarum subsp. plantarum (Lactobacillus
+plantarum)
+Lactobacillus rhamnosus (Lactobacillus casei subsp.
+rhamnosus)
+Lactococcus garvieae subsp. garvieae (Lactococcus garvieae)
+Lactococcus lactis subsp. cremoris (Streptococcus cremoris)
+Lactococcus lactis subsp. lactis (Streptococcus lactis)
+Lactococcus lactis subsp. lactis (Streptococcus lactis)
+Laribacter hongkongensis
+Lawsonella clevelandensis
+Lawsonia intracellularis
+Leclercia adecarboxylata (Escherichia adecarboxylata)
+Legionella adelaidensis
+Legionella anisa
+Legionella birminghamensis
+Legionella brunensis
+Legionella cherrii
+Legionella cincinnatiensis
+Legionella fairfieldensis
+Legionella feeleii
+Legionella hackeliae
+Legionella israelensis
+Legionella jamestowniensis
+Legionella jordanis
+Legionella lansingensis
+Legionella longbeachae
+Legionella moravica
+Legionella oakridgensis
+Legionella parisiensis
+Legionella pneumophila subsp. fraseri
+Legionella pneumophila subsp. pascullei
+Legionella pneumophila subsp. pneumophila
+Legionella quinlivanii
+Legionella sainthelensi
+Legionella steelei
+Legionella tucsonensis
+Legionella wadsworthii
+Lelliottia amnigena (Enterobacter amnigenus)
+Leminorella grimontii
+Leminorella richardii
+Leptospira alexanderi
+Leptospira alstonii
+Leptospira borgpetersenii
+Leptospira broomii
+Leptospira fainei
+Leptospira inadai
+Leptospira interrogans
+Leptospira kirschneri
+Leptospira kmetyi
+Leptospira licerasiae
+Leptospira mayottensis
+Leptospira noguchii
+Leptospira santarosai
+Leptospira weilii
+Leptospira wolffii
+Leptotrichia buccalis
+Leptotrichia goodfellowii
+Leptotrichia hongkongensis
+Leptotrichia shahii
+Leptotrichia trevisanii
+Leuconostoc citreum
+Leuconostoc lactis
+Leuconostoc mesenteroides subsp. dextranicum (Leuconostoc
+dextranicum)
+Leuconostoc mesenteroides subsp. mesenteroides
+Leuconostoc pseudomesenteroides
+Listeria ivanovii subsp. ivanovii
+Listeria ivanovii subsp. londoniensis
+Listeria monocytogenes
+Listeria seeligeri
+Lysinibacillus sphaericus (Bacillus sphaericus)
+Macrococcus canis
+Mageeibacillus indolicus
+Mannheimia haemolytica (Pasteurella haemolytica)
+Mannheimia varigena
+Massilia oculi
+Megasphaera elsdenii
+Megasphaera micronuciformis
+Methanobrevibacter oralis
+Microbacterium paraoxydans
+Mobiluncus mulieris
+Moellerella wisconsensis
+Mogibacterium diversum
+Mogibacterium pumilum
+Mogibacterium timidum (Eubacterium timidum)
+Moraxella catarrhalis
+Moraxella ovis (Neisseria ovis)
+Moraxella atlantae
+Moraxella bovis
+Moraxella  lacunata
+Moraxella nonliquefaciens
+Moraxella  osloensis
+Moraxella bovoculi
+Moraxella lincolnii
+Morganella morganii (Proteus morganii)
+Morococcus cerebrosus
+Mycobacterium abscessus (Mycobacterium abscessus subsp.
+abscessus, Mycobacterium chelonae subsp. abscessus)
+Mycobacterium africanum
+Mycobacterium alvei
+Mycobacterium arupense
+Mycobacterium asiaticum
+Mycobacterium aubagnense
+Mycobacterium avium subsp. avium (Mycobacterium avium)
+Mycobacterium avium subsp. paratuberculosis (Mycobacterium paratuberculosis)
+Mycobacterium boenickei
+Mycobacterium bolletii (Mycobacterium abscessus subsp.bolletii)
+Mycobacterium bovis
+Mycobacterium branderi
+Mycobacterium brisbanense
+Mycobacterium canariasense
+Mycobacterium caprae (Mycobacterium tuberculosis subsp.
+caprae)
+Mycobacterium celatum
+Mycobacterium chelonae subsp. chelonae (Mycobacterium
+chelonae)
+Mycobacterium chimaera
+Mycobacterium colombiense
+Mycobacterium conceptionense
+Mycobacterium elephantis
+Mycobacterium flavescens
+Mycobacterium fortuitum subsp. fortuitum
+Mycobacterium franklinii
+Mycobacterium genavense
+Mycobacterium goodii
+Mycobacterium gordonae
+Mycobacterium grossiae
+Mycobacterium haemophilum
+Mycobacterium heckeshornense
+Mycobacterium heraklionense
+Mycobacterium holsaticum
+Mycobacterium immunogenum
+Mycobacterium intermedium
+Mycobacterium intracellulare
+Mycobacterium iranicum
+Mycobacterium kansasii
+Mycobacterium koreense
+Mycobacterium kumamotonense
+Mycobacterium kyorinense
+Mycobacterium leprae
+Mycobacterium mageritense
+Mycobacterium malmoense
+Mycobacterium marinum
+Mycobacterium marseillense
+Mycobacterium massiliense (Mycobacterium abscessus
+subsp. massiliense)
+Mycobacterium mucogenicum
+Mycobacterium nebraskense
+Mycobacterium neoaurum
+Mycobacterium novocastrense
+Mycobacterium obuense
+Mycobacterium paraffinicum
+Mycobacterium paraintracellulare
+Mycobacterium parascrofulaceum
+Mycobacterium peregrinum
+Mycobacterium rhodesiae
+Mycobacterium saopaulense
+Mycobacterium scrofulaceum
+Mycobacterium septicum
+Mycobacterium setense
+Mycobacterium sherrisii
+Mycobacterium shimoidei
+Mycobacterium simiae
+Mycobacterium smegmatis
+Mycobacterium stephanolepidis
+Mycobacterium szulgai
+Mycobacterium talmoniae
+Mycobacterium terrae
+Mycobacterium thermoresistibile
+Mycobacterium triplex
+Mycobacterium tuberculosis (Mycobacterium tuberculosis
+subsp. tuberculosis)
+Mycobacterium ulcerans
+Mycobacterium vaccae
+Mycobacterium wolinskyi
+Mycobacterium xenopi
+Mycobacterium yongonense
+Mycoplasma agalactiae
+Mycoplasma alkalescens
+Mycoplasma anatis
+Mycoplasma arginini
+Mycoplasma arthritidis
+Mycoplasma bovigenitalium
+Mycoplasma bovirhinis
+Mycoplasma bovis
+Mycoplasma bovoculi
+Mycoplasma californicum
+Mycoplasma canadense
+Mycoplasma canis
+Mycoplasma capricolum subsp. capricolum
+Mycoplasma capricolum subsp. capripneumoniae
+Mycoplasma conjunctivae
+Mycoplasma crocodyli
+Mycoplasma cynos
+Mycoplasma dispar
+Mycoplasma edwardii
+Mycoplasma fermentans
+Mycoplasma flocculare
+Mycoplasma gallisepticum
+Mycoplasma gallopavonis
+Mycoplasma genitalium
+Mycoplasma haemofelis (Haemobartonella felis)
+Mycoplasma hominis
+Mycoplasma hyopneumoniae
+Mycoplasma hyorhinis
+Mycoplasma hyosynoviae
+Mycoplasma leachii
+Mycoplasma maculosum
+Mycoplasma mobile
+Mycoplasma mycoides subsp. capri
+Mycoplasma mycoides subsp. mycoides
+Mycoplasma neurolyticum
+Mycoplasma orale
+Mycoplasma ovipneumoniae
+Mycoplasma ovis (Eperythrozoon ovis)
+Mycoplasma penetrans
+Mycoplasma phocae (phocidae)
+Mycoplasma pneumoniae
+Mycoplasma pullorum
+Mycoplasma pulmonis
+Mycoplasma putrefaciens
+Mycoplasma salivarium
+Mycoplasma suipneumoniae
+Mycoplasma suis (Eperythrozoon suis)
+Mycoplasma synoviae
+Mycoplasma wenyonii (Eperythrozoon wenyonii)
+Myroides odoratimimus
+Myroides odoratus (Flavobacterium odoratum)
+Neisseria animaloris
+Neisseria bacilliformis
+Neisseria canis
+Neisseria cinerea
+Neisseria elongata subsp. glycolytica
+Neisseria flavescens
+Neisseria gonorrhoeae
+Neisseria lactamica
+Neisseria meningitidis
+Neisseria mucosa
+Neisseria ovis (Moraxella ovis)
+Neisseria sicca
+Neisseria subflava
+Neisseria wadsworthii
+Neisseria weaveri
+Neisseria zoodegmatis
+Neorickettsia helminthoeca
+Neorickettsia risticii (Ehrlichia risticii)
+Neorickettsia sennetsu (Rickettsia sennetsu, Ehrlichia
+sennetsu)
+Nocardia abscessus
+Nocardia africana
+Nocardia amamiensis
+Nocardia anaemiae
+Nocardia aobensis
+Nocardia araoensis
+Nocardia arizonensis
+Nocardia arthritidis
+Nocardia asiatica
+Nocardia asteroides
+Nocardia beijingensis
+Nocardia brasiliensis
+Nocardia brevicatena (Micropolyspora brevicatena)
+Nocardia carnea
+Nocardia concava
+Nocardia cyriacigeorgica
+Nocardia elegans
+Nocardia exalbida
+Nocardia farcinica
+Nocardia flavorosea
+Nocardia gamkensis
+Nocardia harenae
+Nocardia higoensis
+Nocardia ignorata
+Nocardia inohanensis
+Nocardia kruczakiae
+Nocardia mexicana
+Nocardia mikamii
+Nocardia niigatensis
+Nocardia niwae
+Nocardia nova
+Nocardia otitidiscaviarum
+Nocardia paucivorans
+Nocardia pneumoniae
+Nocardia pseudobrasiliensis
+Nocardia puris
+Nocardia sienata
+Nocardia takedensis
+Nocardia terpenica
+Nocardia testacea
+Nocardia thailandica
+Nocardia transvalensis
+Nocardia vermiculata
+Nocardia veterana
+Nocardia vinacea
+Nocardia yamanashiensis
+Nocardiopsis dassonvillei subsp. albirubida (Nocardiopsis
+alborubida)
+Nocardiopsis dassonvillei subsp. dassonvillei
+Oblitimonas alkaliphila
+Ochrobactrum anthropi
+Ochrobactrum intermedium
+Ochrobactrum pseudogrignonense
+Odoribacter splanchnicus (Bacteroides splanchnicus)
+Oerskovia turbata
+Oligella ureolytica
+Oligella urethralis (Moraxella urethralis)
+Olsenella uli (Lactobacillus uli)
+Oribacterium sinus
+Orientia tsutsugamushi (Rickettsia tsutsugamushi)
+Ornithobacterium rhinotracheale
+Paenalcaligenes hominis
+Paenarthrobacter aurescens (Arthrobacter aurescens)
+Paenibacillus alvei (Bacillus alvei)
+Paenibacillus larvae (Bacillus larvae, Paenibacillus larvae
+subsp. larvae, Bacillus pulvifaciens, Paenibacillus pulvifaciens,
+Paenibacillus larvae subsp. pulvifaciens)
+Paeniclostridium sordellii (Clostridium sordellii)
+Pandoraea apista
+Pandoraea norimbergensis (Burkholderia norimbergensis)
+Pandoraea pnomenusa
+Pandoraea pulmonicola
+Pandoraea sputorum
+Pantoea agglomerans (Enterobacter agglomerans)
+Pantoea calida
+Pantoea dispersa
+Parabacteroides distasonis (Bacteroides distasonis)
+Parabacteroides goldsteinii (Bacteroides goldsteinii)
+Parabacteroides merdae (Bacteroides merdae)
+Paraburkholderia fungorum (Burkholderia fungorum)
+Paraburkholderia rhizoxinica (Burkholderia rhizoxinica)
+Parachlamydia acanthamoebae
+Paraclostridium bifermentans (Clostridium bifermentans)
+Paracoccus sanguinis
+Paracoccus yeei
+Parascardovia denticolens (Bifidobacterium denticolens)
+Parvimonas micra (Micromonas micros, Peptostreptococcus
+micros)
+Pasteurella aerogenes
+Pasteurella bettyae
+Pasteurella dagmatis
+Pasteurella lymphangitidis
+Pasteurella multocida subsp. gallicida (Pasteurella gallicida)
+Pasteurella multocida subsp. multocida
+Pasteurella multocida subsp. septica
+Pasteurella stomatis
+Pediococcus acidilactici
+Pediococcus pentosaceus
+Peptoniphilus coxii
+Peptoniphilus duerdenii
+Peptoniphilus harei (Peptostreptococcus harei)
+Peptoniphilus indolicus (Peptococcus indolicus,
+Peptostreptococcus indolicus)
+Peptoniphilus ivorii (Peptostreptococcus ivorii)
+Peptoniphilus lacrimalis (Peptostreptococcus lacrimalis)
+Peptostreptococcus anaerobius
+Peptostreptococcus stomatis
+Photobacterium damselae subsp. damselae (Vibrio damsela,
+Listonella damsela)
+Photorhabdus asymbiotica subsp. asymbiotica
+Phytobacter diazotrophicus
+Phytobacter ursingii
+Plesiomonas shigelloides
+Pluralibacter gergoviae (Enterobacter gergoviae)
+Porphyromonas asaccharolytica (Bacteroides
+asaccharolyticus)
+Porphyromonas cangingivalis
+Porphyromonas crevioricanis
+Porphyromonas gingivalis (Bacteroides gingivalis)
+Prevotella bivia (Bacteroides bivius)
+Prevotella buccae (Bacteroides buccae)
+Prevotella buccalis (Bacteroides buccalis)
+Prevotella corporis (Bacteroides corporis)
+Prevotella dentalis (Mitsuokella dentalis)
+Prevotella denticola (Bacteroides denticola)
+Prevotella disiens (Bacteroides disiens)
+Prevotella enoeca
+Prevotella fusca
+Prevotella heparinolytica (Bacteroides heparinolyticus)
+Prevotella intermedia (Bacteroides intermedius, Bacteroides
+melaninogenicus subsp. intermedius)
+Prevotella jejuni
+Prevotella loescheii (Bacteroides loescheii)
+Prevotella melaninogenica (Bacteroides melaninogenicus,
+Bacteroides melaninogenicus subsp. melaninogenicus)
+Prevotella nigrescens
+Prevotella oralis (Bacteroides oralis)
+Prevotella oris (Bacteroides oris)
+Prevotella ruminicola (Bacteroides ruminicola subsp.
+ruminicola)
+Prevotella scopos
+Prevotella zoogleoformans (Capsularis zoogleiformans,
+Bacteroides zoogleoformans)
+Propionibacterium acidifaciens
+Propionibacterium acnes
+Propionibacterium australiense
+Propionibacterium namnetense
+Propionimicrobium lymphophilum (Propionibacterium
+lymphophilum)
+Proteus inconstans (Providencia alcalifaciens/stuartii)
+Proteus mirabilis
+Proteus morganii (Morganella morganii subsp. morganii)
+Proteus penneri
+Proteus rettgeri (Providencia rettgeri)
+Proteus vulgaris
+Providencia alcalifaciens (Proteus inconstans)
+Providencia heimbachae
+Providencia rettgeri (Proteus rettgeri)
+Providencia rustigianii
+Providencia stuartii (Proteus inconstans)
+Pseudescherichia vulneris (Escherichia vulneris)
+Pseudomonas aeruginosa
+Pseudomonas alcaligenes
+Pseudomonas fluorescens
+Pseudomonas luteola
+Pseudomonas mendocina
+Pseudomonas monteilii
+Pseudomonas mosselii
+Pseudomonas oryzihabitans
+Pseudomonas putida
+Pseudomonas simiae
+Pseudomonas stutzeri
+Pseudonocardia autotrophica (Nocardia autotrophica,
+Amycolata autotrophica)
+Pseudopropionibacterium propionicum (Propionibacterium
+propionicum)
+Pseudoramibacter alactolyticus (Eubacterium alactolyticum)
+Psychrobacter phenylpyruvicus (Moraxella (Subgenus
+Moraxella) phenylpyruvica)
+Rahnella aquatilis
+Ralstonia insidiosa
+Ralstonia mannitolilytica
+Ralstonia pickettii (Pseudomonas pickettii, Burkholderia
+pickettii)
+Raoultella ornithinolytica (Klebsiella ornithinolytica)
+Raoultella planticola (Klebsiella planticola)
+Raoultella terrigena (Klebsiella terrigena)
+Rhizobium radiobacter (Agrobacterium radiobacter;
+Agrobacterium tumefaciens)
+Rhodococcus erythropolis (Arthrobacter picolinophilus;
+Nocardia calcarea)
+Rhodococcus hoagii (Corynebacterium hoagii, Rhodococcus
+equi, Corynebacterium equi)
+Rhodococcus rhodochrous
+Rickettsia africae
+Rickettsia akari
+Rickettsia amblyommatis
+Rickettsia australis
+Rickettsia bellii
+Rickettsia canadensis
+Rickettsia conorii
+Rickettsia felis
+Rickettsia heilongjiangensis
+Rickettsia helvetica
+Rickettsia honei
+Rickettsia japonica
+Rickettsia massiliae
+Rickettsia montanensis
+Rickettsia parkeri
+Rickettsia prowazekii
+Rickettsia raoultii
+Rickettsia rhipicephali
+Rickettsia rickettsii
+Rickettsia sibirica
+Rickettsia slovaca
+Rickettsia typhi
+Riemerella anatipestifer (Moraxella anatipestifer)
+Roseomonas cervicalis
+Roseomonas fauriae15
+Roseomonas gilardii subsp. gilardii
+Roseomonas mucosa
+Rothia aeria
+Rothia dentocariosa
+Rothia mucilaginosa (Stomatococcus mucilaginosus)
+Saccharomonospora viridis
+Salmonella bongori (Salmonella enterica subsp. bongori)
+Salmonella enterica 
+Scardovia inopinata (Bifidobacterium inopinatum)
+Segniliparus rotundus
+Selenomonas sputigena
+Serratia fonticola
+Serratia marcescens subsp. marcescens
+Serratia odorifera
+Serratia plymuthica
+Serratia proteamaculans (Serratia proteamaculans subsp.
+proteamaculans)
+Serratia quinivorans (Serratia proteamaculans subsp.
+quinovora)
+Serratia rubidaea
+Shewanella algae
+Shewanella haliotis
+Shewanella putrefaciens (Alteromonas putrefaciens)
+Shewanella upenei
+Shewanella xiamenensis
+Shigella boydii
+Shigella dysenteriae 
+Shigella flexneri
+Shigella sonnei
+Simkania negevensis
+Slackia exigua (Eubacterium exiguum)
+Slackia heliotrinireducens (Peptococcus heliotrinreducens,
+Peptostreptococcus heliotrinreducens)
+Sneathia sanguinegens
+Sodalis praecaptivus
+Solobacterium moorei
+Sphingobacterium mizutaii (Sphingobacterium mizutae,
+Flavobacterium mizutaii)
+Sphingomonas yanoikuyae
+Spiroplasma mirum
+Staphylococcus agnetis
+Staphylococcus argenteus
+Staphylococcus aureus subsp. aureus
+Staphylococcus capitis subsp. capitis
+Staphylococcus caprae
+Staphylococcus chromogenes (Staphylococcus hyicus subsp.
+chromogenes)
+Staphylococcus epidermidis
+Staphylococcus felis
+Staphylococcus haemolyticus
+Staphylococcus hominis subsp. hominis
+Staphylococcus hyicus
+Staphylococcus lentus (Staphylococcus sciuri subsp. lentus)
+Staphylococcus lugdunensis
+Staphylococcus lutrae
+Staphylococcus nepalensis
+Staphylococcus pasteuri
+Staphylococcus petrasii subsp. petrasii
+Staphylococcus pettenkoferi
+Staphylococcus pseudintermedius
+Staphylococcus saprophyticus subsp. saprophyticus
+Staphylococcus schweitzeri
+Staphylococcus sciuri (Staphylococcus sciuri subsp. sciuri)
+Staphylococcus simiae
+Staphylococcus simulans
+Staphylococcus vitulinus
+Staphylococcus warneri
+Staphylococcus xylosus
+Stenotrophomonas maltophilia (Pseudomonas maltophilia,
+Xanthomonas maltophilia)
+Streptobacillus moniliformis
+Streptococcus acidominimus
+Streptococcus agalactiae
+Streptococcus anginosus subsp. anginosus (Streptococcus
+anginosus)
+Streptococcus anginosus subsp. whileyi
+Streptococcus australis
+Streptococcus canis
+Streptococcus constellatus subsp. pharyngis
+Streptococcus cristatus
+Streptococcus dysgalactiae subsp. dysgalactiae
+Streptococcus dysgalactiae subsp. equisimilis
+Streptococcus equi subsp. equi
+Streptococcus equi subsp. zooepidemicus
+Streptococcus equinus
+Streptococcus gallolyticus subsp. gallolyticus
+Streptococcus gallolyticus subsp. pasteurianus (Streptococcus
+pasteurianus)
+Streptococcus gordonii
+Streptococcus infantarius subsp. infantarius
+Streptococcus infantis
+Streptococcus iniae
+Streptococcus intermedius
+Streptococcus lutetiensis (Streptococcus infantarius subsp.
+coli)
+Streptococcus massiliensis
+Streptococcus mitis
+Streptococcus mutans
+Streptococcus oralis subsp. oralis (Streptococcus oralis)
+Streptococcus oralis subsp. tigurinus (Streptococcus tigurinus)
+Streptococcus parasanguinis
+Streptococcus parauberis
+Streptococcus peroris
+Streptococcus pluranimalium
+Streptococcus pneumoniae
+Streptococcus porcinus
+Streptococcus pseudopneumoniae
+Streptococcus pseudoporcinus
+Streptococcus pyogenes
+Streptococcus ruminantium
+Streptococcus salivarius (Streptococcus salivarius subsp.
+salivarius)
+Streptococcus sanguinis
+Streptococcus sobrinus
+Streptococcus suis
+Streptococcus uberis
+Streptococcus urinalis
+Streptomyces griseus subsp. griseus
+Streptomyces somaliensis
+Sutterella wadsworthensis
+Tannerella forsythia (Bacteroides forsythus)
+Tatlockia maceachernii (Legionella maceachernii)
+Tatlockia micdadei (Legionella micdadei)
+Tatumella ptyseos
+Taylorella equigenitalis (Haemophilus equigenitalis)
+Thermoactinomyces vulgaris
+Treponema brennaborense
+Treponema carateum
+Treponema denticola
+Treponema pallidum (Treponema pertenue)
+Treponema paraluiscuniculi
+Treponema pedis (Treponema_B pedis)
+Treponema putidum (Treponema_B putidum)
+Tropheryma whipplei
+Trueperella bernardiae (Arcanobacterium bernardiae,
+Actinomyces bernardiae)
+Trueperella pyogenes (Arcanobacterium pyogenes,
+Corynebacterium pyogenes, Actinomyces pyogenes)
+Tsukamurella paurometabola (Corynebacterium
+paurometabolum)
+Tsukamurella tyrosinosolvens
+Turicella otitidis (Corynebacterium otitidis)
+Ureaplasma parvum
+Ureaplasma urealyticum
+Veillonella dispar (Veillonella alcalescens subsp. dispar)
+Veillonella montpellierensis
+Veillonella parvula
+Vibrio alginolyticus (Beneckea alginolytica)
+Vibrio anguillarum
+Vibrio cholerae
+Vibrio cincinnatiensis
+Vibrio fluvialis
+Vibrio furnissii
+Vibrio harveyi (Beneckea harveyi, Lucibacterium harveyi)
+Vibrio metschnikovii
+Vibrio mimicus
+Vibrio navarrensis
+Vibrio parahaemolyticus (Beneckea parahaemolytica)
+Vibrio splendidus (Beneckea splendida)
+Vibrio vulnificus (Beneckea vulnifica)
+Waddlia chondrophila
+Weeksella virosa
+Weissella ceti
+Weissella cibaria
+Weissella confusa (Lactobacillus confusus)
+Wohlfahrtiimonas chitiniclastica
+Yersinia aleksiciae
+Yersinia enterocolitica subsp. enterocolitica
+Yersinia enterocolitica subsp. palearctica
+Yersinia frederiksenii
+Yersinia intermedia
+Yersinia kristensenii
+Yersinia pestis
+Yersinia rhodei (Yersinia rohdei)
+Yersinia ruckeri
+Yersinia similis
