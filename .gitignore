@@ -1,2 +1,4 @@
 # Ignore the DISQVER folder
 DISQVER/
+# Ignore mac folders
+.DS_Store
