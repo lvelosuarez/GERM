@@ -11,10 +11,10 @@ import bz2
 import lzma
 import argparse
 
-__author__ = 'Qiyun Zhu'
+__author__ = 'Lourdes Velo'
 __license__ = 'BSD-3-Clause'
 __version__ = '0.0.1-dev'
-__email__ = 'qiyunzhu@gmail.com'
+__email__ = 'lourdesvelo@gmail.com'
 
 usage = """%(prog)s -i INPUT_DIR -o OUTPUT_FILE [options]"""
 
@@ -29,7 +29,7 @@ def parse_args():
         formatter_class=argparse.RawDescriptionHelpFormatter)
     arg = parser.add_argument
     arg('-i', '--input', required=True,
-        help='input directory containing genome sequences (fna)')
+        help='input directory containing genome sequences full path (fna)')
     arg('-o', '--output', required=True,
         help='output multi-Fasta filename')
     arg('-c', '--concat', action='store_true',
