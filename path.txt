@@ -41,20 +41,20 @@ Actinobacillus ureae (Pasteurella ureae)
 Actinomadura latina (Spirillospora latina)
 Actinomadura madurae (Spirillospora madurae)
 Actinomyces cardiffensis (Pauljensenia cardiffensis)
-Actinomyces europaeus
-Actinomyces gerencseriae (Actinomyces israelii Serovar 2)
+Actinomyces europaeus (Gleimia europaea)
+Actinomyces gerencseriae
 Actinomyces graevenitzii
-Actinomyces hongkongensis
+Actinomyces hongkongensis (Pauljensenia hongkongensis)
 Actinomyces israelii
 Actinomyces massiliensis
-Actinomyces meyeri (Actinobacterium meyeri)
-Actinomyces neuii subsp. neuii
-Actinomyces odontolyticus
+Actinomyces meyeri (Pauljensenia meyeri)
+Actinomyces neuii subsp. neuii (Winkia neuii)
+Actinomyces odontolyticus (Pauljensenia radingae_A)
 Actinomyces oris
-Actinomyces radicidentis
+Actinomyces radicidentis 
 Actinomyces radingae
 Actinomyces timonensis
-Actinomyces turicensis
+Actinomyces turicensis (Pauljensenia turicensis_A)
 Actinomyces urogenitalis
 Actinomyces viscosus
 Actinotignum schaalii (Actinobaculum schaalii)
